@@ -1,6 +1,8 @@
 import urllib.request
-
+from fetcher_core import *
+fcb()
 def get_url():
+    fcc()
     UNAME = input("ENTER UNAME: ")
     PASS = input("ENTER PASS: ")
 
